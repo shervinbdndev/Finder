@@ -12,7 +12,7 @@ Android  | 10  | [Download Apk](https://codeload.github.com/shervinbdndev/Finder
 </div>
 <br><br><br>
 <h2 align='center'>
-    a Mobile application to find IDs in some Social Platforms.
+    A Mobile application to find IDs in some Social Platforms.
 </h2>
 
 <br><br><br>
